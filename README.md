@@ -1,4 +1,4 @@
 # myportfolio
 
 My old portfolio with HTML,CSS,JS. 
-With funcional contact form go to <a href="https://github.com/shaishguni/portfolio">Go here</a>
+With functional contact form go to <a href="https://github.com/shaishguni/portfolio-cv">Go here</a>
